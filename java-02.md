@@ -32,3 +32,4 @@ Kolegu e gjeti udhëtimin dhe e kërkoi vendin pa ndihmë; nuk u hutua në asnj�
 
 ## 8. Ndihma nga AI
 Përdora AI për ta organizuar draftin e planit dhe për ta bërë skicën e parë të tri ekraneve. Përmbajtjen e rishikova dhe e përshtata vetë sipas demonstrimit dhe provës me kolegun.
+git remote -v
